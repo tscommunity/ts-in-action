@@ -1,0 +1,25 @@
+{
+  "name": "ts4.0-demos",
+  "version": "1.0.0",
+  "description": "Demos for typescript version 4.0 features",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscommunity/ts-in-action/ts4.0"
+  },
+  "keywords": [
+    "TypeScript",
+    "TS"
+  ],
+  "author": "tscommunity@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0"
+  }
+}
