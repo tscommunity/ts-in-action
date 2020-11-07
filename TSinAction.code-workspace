@@ -3,5 +3,11 @@
 		{
 			"path": "TS4.0"
 		}
-	]
+	],
+	"settings": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnSaveMode": "modifications",
+		"editor.formatOnType": true
+	}
 }
